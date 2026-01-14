@@ -5,10 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Puskomin
     url: https://puskomin-v2.kemendagri.go.id
-  - name: Puskomin API Login
-    headers:
-      - "Authorization: Bearer $AUTH"
-      - "Content-Type: application/json"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
